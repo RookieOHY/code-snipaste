@@ -5,7 +5,7 @@ Java 代码片段库
 - Triple
 - 抽象类
 - Stream API
-- 估计一个实例内存大小
+- 估计一个实例内存大小 
 - 反射
 - return finally
 - DelayQueue
@@ -47,6 +47,9 @@ Java 代码片段库
 - redis和mysql一致性
 - OOM 
 - stackoverflowerror
+- 布隆过滤器
+- bitmap
+- 插件化 agent
 ## Spring 
 - @Transactional 
 - 循环依赖案例
@@ -59,3 +62,9 @@ Java 代码片段库
 - ES 
 - MongoDB
 - MQ
+
+## 伪代码（方便理解和记忆）
+
+
+
+## idea 技巧
