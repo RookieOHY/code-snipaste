@@ -2,10 +2,10 @@
 Java 代码片段库
 
 ## JDK
-- Triple
+- Triple Pair
 - 抽象类
 - Stream API
-- 估计一个实例内存大小 
+- 估计一个对象内存大小 
 - 反射
 - return finally
 - DelayQueue
@@ -22,7 +22,8 @@ Java 代码片段库
 - 动态线程池
 - 多线程事务
 - 线程池拒绝策略
-- 协程
+- 虚拟线程
+- 生产者消费者
 ## 数据结构和算法
 - 反转字符串
 - LRU
